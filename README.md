@@ -12,7 +12,7 @@ I am an enthusiastic and highly motivated learner transitioning into the field o
 * 🔭 **I'm currently focused on:** Building a portfolio of projects demonstrating end-to-end          data analysis (cleaning, exploring, visualizing).
 * 🌱 **I’m actively mastering:** Advanced SQL for complex querying and the core Python data stack (Pandas, Matplotlib, Scikit-learn).
 * 💬 **Ask me about:** Data cleaning techniques, Exploratory Data Analysis (EDA), or dashboard design principles.
-* 📫 **How to reach me:** [Your Professional Email Address]
+* 📫 **How to reach me:** malkapureharsh11703@gmail.com
 * 👯 **I’m looking to collaborate on:** Introductory data challenges and open-source learning projects.
 
 ---
